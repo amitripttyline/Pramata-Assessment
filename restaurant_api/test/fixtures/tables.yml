@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  capacity: 1
+  area: MyString
+  features: MyText
+  price_per_person: 9.99
+
+two:
+  name: MyString
+  capacity: 1
+  area: MyString
+  features: MyText
+  price_per_person: 9.99

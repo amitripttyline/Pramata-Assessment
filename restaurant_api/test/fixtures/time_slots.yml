@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  table: one
+  start_time: 2025-08-13 11:14:03
+  end_time: 2025-08-13 11:14:03
+  date: 2025-08-13
+  is_available: false
+  notes: MyText
+
+two:
+  table: two
+  start_time: 2025-08-13 11:14:03
+  end_time: 2025-08-13 11:14:03
+  date: 2025-08-13
+  is_available: false
+  notes: MyText
